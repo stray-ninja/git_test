@@ -1,0 +1,1 @@
+This is stray-ninja's first git project!
